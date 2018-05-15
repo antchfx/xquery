@@ -5,13 +5,7 @@ xquery
 [![GoDoc](https://godoc.org/github.com/antchfx/xquery?status.svg)](https://godoc.org/github.com/antchfx/xquery)
 [![Go Report Card](https://goreportcard.com/badge/github.com/antchfx/xquery)](https://goreportcard.com/report/github.com/antchfx/xquery)
 
-**IMPORTANT**
-
-`htmlquery` as standard package has move into the [htmlquery](https://github.com/antchfx/htmlquery) project, [New Issue](https://github.com/antchfx/htmlquery/issues)
-
-`xmlquery` as standard package has move into the [xmlquery](https://github.com/antchfx/xmlquery) project, [New Issue](https://github.com/antchfx/xmlquery/issues)
-
-If you have any issue or problem welcome go to the new project page.
+> NOTE: This package is deprecated. Recommends use [htmlquery](https://github.com/antchfx/htmlquery) and [xmlquery](https://github.com/antchfx/xmlquery) package, get latest version to fixed some issues.
 
 Overview
 ===
